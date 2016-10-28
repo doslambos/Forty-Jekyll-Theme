@@ -36,6 +36,10 @@ nbproject
 # Generated gem lock
 Gemfile.lock
 
+# Generated SASS
+assets/.sass-cache
+assets/css/*.css.map
+
 # grunt-html-validation
 validation-status.json
 validation-report.json

@@ -10,7 +10,7 @@ title-bold: DōsLambōs
 title-normal: Music, Art
 email: team@doslambos.com
 description: We play music in Chicago
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://doslambos.github.io" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road

@@ -2236,6 +2236,19 @@ button,
     .spotlights > section > .content {
       padding: 3em 1.5em 1em 1.5em ; } }
 
+/* Responsive Video */
+.video figure {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden; }
+.video iframe, .video object, .video embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
 /* Header */
 @-moz-keyframes reveal-header {
   0% {

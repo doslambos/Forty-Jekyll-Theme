@@ -7,4 +7,4 @@ image: assets/images/clique-eastwood-yt-thumbnail.jpg
 
 {% youtube CRM_EkytC7g %}
 
-This track combines Kanye West’s Clique with Gorilaz’s Clint Eastwood. Clique’s beat + Clint Eastwood’s lyrics = match made in heaven.
+This track combines Kanye West’s Clique with Gorillaz’s Clint Eastwood. Clique’s beat + Clint Eastwood’s lyrics = match made in heaven.

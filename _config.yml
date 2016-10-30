@@ -26,6 +26,9 @@ gems:
   - jekyll-seo-tag
   - jekyll-feed
   - jemoji
+  group :jekyll_plugins do
+  gem "jekyll-youtube"
+end
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

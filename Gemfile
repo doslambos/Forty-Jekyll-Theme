@@ -1,14 +1,9 @@
 source 'https://rubygems.org' do
+  # Gems here
+  gem 'jekyll'
 
-# Gems here
-gem "jekyll"
-
-group :jekyll_plugins do
-  gem "jekyll-youtube"
-  gem "jekyll-sitemap"
-  gem "jekyll-seo-tag"
-  gem "jekyll-feed"
-  gem "jemoji"
-end
-
+  gem 'jekyll-sitemap', group: :jekyll_plugins
+  gem 'jekyll-seo-tag', group: :jekyll_plugins
+  gem 'jekyll-feed', group: :jekyll_plugins
+  gem 'jemoji', group: :jekyll_plugins
 end

@@ -7,4 +7,4 @@ image: assets/images/hotline-bling-yt-thumbnail.jpg
 
 {% youtube pQwgdPGlNtY %}
 
-We are so crazy about Drake, we cover his songs. Check out our version of Hotline Bling, and let us know what you think!
+We are so crazy about Drake, we cover his songs. Check out our version of Hotline Bling, and let us know wddhat you think!

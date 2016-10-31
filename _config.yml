@@ -26,9 +26,6 @@ gems:
   - jekyll-seo-tag
   - jekyll-feed
   - jemoji
-  group :jekyll_plugins do
-  gem "jekyll-youtube"
-end
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -39,12 +36,12 @@ tiles-count: 60
 facebook_url:
 github_url:
 gitlab_url: https://gitlab.com/u/diwant
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
+googleplus_url: https://plus.google.com/u/0/+DosLambos
+instagram_url: https://instagram.com/doslambos
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/doslambos
 
 # Build settings
 markdown: kramdown

@@ -5,6 +5,6 @@ description: Versace (Migos/Drake) mixed with All Deez (Buku) and Falak Tak (Tas
 image: assets/images/versace-on-a-plane-yt-thumbnail.jpg
 ---
 
-{% youtube ylhLYD_fl20 %}
+{% include youtube.html youtube_id="ylhLYD_fl20" %}
 
 Versace (Migos/Drake) mixed with All Deez (Buku) and Falak Tak (Tashan)

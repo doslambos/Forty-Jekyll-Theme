@@ -2479,7 +2479,12 @@ button,
   max-height: 32em;
   min-height: 22em;
   position: relative;
-  top: -3.25em; }
+  top: -3.25em;
+  transform: scale(1);
+  transition: all 4s ease-in; }
+  #banner.zout {
+    transform: scale(6);
+    /* <--- change the scale of zoom out as appropriate */ }
   #banner:after {
     -moz-transition: opacity 2.5s ease;
     -webkit-transition: opacity 2.5s ease;

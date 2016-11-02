@@ -23,7 +23,11 @@
 		min-height: 22em;
 		position: relative;
 		top: -3.25em;
-
+		transform:scale(1);
+	    transition:all 4s ease-in;
+		&.zout {
+		    transform:scale(6); /* <--- change the scale of zoom out as appropriate */
+		}
 		&:after {
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('transition-delay', '0.75s');

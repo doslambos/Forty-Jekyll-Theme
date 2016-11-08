@@ -19,18 +19,20 @@ published: true
   				<p>DōsLambōs was at Uncommon Ground on October 20, 2016! This first concert in a while. We performed a 30 minute set. Excited for many more to come!</p>
   				<ul class="actions">
   					<li><a href="http://facebook.com/doslambosband" class="button">Be our friend</a></li>
-            Description is {{ post.description }}
-            change test 2
+            Description is {{ page.description }}
+            change test 3
   				</ul>
   			</div>
   		</div>
   	</section>
 
+    <div class="previous">
+      Previous Post: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+    </div>
+
     <div class="next">
       Next post: <a href="{{ page.next.url }}">{{ page.next.title }}</a>
     </div>
 
-    <div class="previous">
-      Previous Post: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
-    </div>
+
   </section>

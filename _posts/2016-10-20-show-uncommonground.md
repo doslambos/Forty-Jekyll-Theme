@@ -9,13 +9,12 @@ published: true
 <!-- Content -->
 <h2 id="content">Our Drought Breaking Show!</h2>
 
+
 <div>
   <span class="image fit">
     <img src="/assets/images/concert-pics/16-10-20-uncommon-ground.jpg" alt="DosLambos Performing Music at Uncommon Ground" />
   </span>
-</div>
 
-<div class="row">
 		<h3>And we're back.</h3>
         <p>We've been out of the game for some time, but it's time we made our entrance.</p>
         <p>DosLambos was at Uncommon Ground on October 20, 2016! This first concert in a while. We performed a 30 minute set. Excited for many more to come!</p>

@@ -12,7 +12,7 @@ published: true
 <div class="row 50% uniform">
 
   <div class="4u">
-    <span class="image fit">
+    <span>
       <img src="/assets/images/concert-pics/16-10-20-uncommon-ground.jpg" alt="DosLambos Performing Music at Uncommon Ground" />
     </span>
   </div>

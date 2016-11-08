@@ -26,6 +26,11 @@ published: true
   		</div>
   	</section>
 
-    Next post: <a href="{{ page.next.url }}">Next</a>
-    Previous Post: <a href="{{ page.previous.url }}">Previous</a>
+    <div class="next">
+      Next post: <a href="{{ page.next.url }}">Next</a>
+    </div>
+
+    <div class="previous">
+      Previous Post: <a href="{{ page.previous.url }}">Previous</a>
+    </div>
   </section>

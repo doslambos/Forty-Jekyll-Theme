@@ -1,20 +1,13 @@
 ---
 layout: home
 title: Home
-<<<<<<< HEAD
-landing-title: DōsLambōs
-description: We play music to remind you of your strength and love
-image:
-author:
-nav-menu:
-=======
 landing-title: 'Hi, we are DōsLambōs'
-description: null
+description: 'We play music to remind you of your strength and love'
 image: null
 author: null
 nav-menu: null
 published: true
->>>>>>> 3522fbf4169496a5d7b0163ca53e23a28e30bfc9
+
 ---
 
 <!-- Banner -->

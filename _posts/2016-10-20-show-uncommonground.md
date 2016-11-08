@@ -9,7 +9,9 @@ published: true
 ## DosLambos Making Moves
   DōsLambōs was at Uncommon Ground on October 20, 2016! This first concert in a while. We performed a 30 minute set. Excited for many more to come!
 
-  <section id="two" class="spotlights">
+
+
+
   	<section>
 
   			<img src="{{ site.url }}/assets/images/concert-pics/16-10-20-uncommon-ground.jpg" alt="" data-position="center center" />

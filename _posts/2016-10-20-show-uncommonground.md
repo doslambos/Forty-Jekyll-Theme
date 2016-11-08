@@ -11,7 +11,7 @@ published: true
 
 
 
-
+  <section id="two" class="spotlights">
   	<section>
 
   			<img src="{{ site.url }}/assets/images/concert-pics/16-10-20-uncommon-ground.jpg" alt="" data-position="center center" />
@@ -28,3 +28,4 @@ published: true
   			</div>
   		</div>
   	</section>
+    </section>

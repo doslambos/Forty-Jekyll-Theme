@@ -12,7 +12,7 @@ published: true
   <section id="two" class="spotlights">
   	<section>
   		<a href="generic.html" class="image">
-  			<img src="/assets/images/concert-pics/16-10-20-uncommon-ground.jpg" alt="" data-position="center center" />
+  			<img src="assets/images/concert-pics/16-10-20-uncommon-ground.jpg" alt="" data-position="center center" />
   		</a>
   		<div class="content">
   			<div class="inner">
@@ -26,5 +26,3 @@ published: true
   			</div>
   		</div>
   	</section>
-
-    <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=150761528721520" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>

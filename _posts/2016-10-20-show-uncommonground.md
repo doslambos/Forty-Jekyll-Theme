@@ -6,8 +6,6 @@ image: assets/images/concert-pics/16-10-20-uncommon-ground.jpg
 published: true
 ---
 
-<!-- Content -->
-
 # Our Drought Breaking Show!
 
 ## And we're back

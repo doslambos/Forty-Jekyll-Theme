@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, we are DōsLambōs
-description:
+landing-title: DōsLambōs
+description: We play music to remind you of your strength and love
 image:
 author:
 nav-menu:

@@ -1,11 +1,12 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, we are DōsLambōs
-description:
-image:
-author:
-nav-menu:
+landing-title: 'Hi, we are DōsLambōs'
+description: null
+image: null
+author: null
+nav-menu: null
+published: true
 ---
 
 <!-- Banner -->
@@ -33,11 +34,11 @@ nav-menu:
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>We are DōsLambōs</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Two brothers from the same mother. Two guitars, originally from trees. Vocal harmonies on tracks with solid beats. Music for the moment - to make you forget for a little bit. Love.</p>
 		<ul class="actions">
-			<li><a href="landing.html" class="button next">Get Started</a></li>
+			<li><a href="landing.html" class="button next">Connect with Us</a></li>
 		</ul>
 	</div>
 </section>

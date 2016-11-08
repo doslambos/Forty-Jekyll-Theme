@@ -11,7 +11,7 @@ title-normal: Music, Art, Lifestyle
 email: team@doslambos.com
 description: We play music in Chicago
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://doslambos.github.io" # the base hostname & protocol for your site
+url: "http://www.doslambos.com" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Chicago
@@ -39,7 +39,7 @@ github_url:
 gitlab_url: https://gitlab.com/u/diwant
 googleplus_url: https://plus.google.com/u/0/+DosLambos
 instagram_url: https://instagram.com/doslambos
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/doslambos

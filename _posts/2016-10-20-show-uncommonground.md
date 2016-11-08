@@ -24,4 +24,7 @@ published: true
   			</div>
   		</div>
   	</section>
+
+    Next post: {{page.next}}
+    Previous Post: {{page.previous}}
   </section>

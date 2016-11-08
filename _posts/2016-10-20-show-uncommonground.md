@@ -26,5 +26,5 @@ published: true
   	</section>
 
     Next post: <a href="{{ page.next }}">Next</a>
-    Previous Post: {{page.previous}}
+    Previous Post: <a href="{{page.previous}}">Previous</a>
   </section>

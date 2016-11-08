@@ -2,7 +2,7 @@
 layout: post
 title: DōsLambōs at Uncommon Ground
 description: We performed a 30 minute set at the Uncommon Ground on Clark
-image: assets/images/concert-pics/16-10-20-uncommon-ground.jpg
+image:
 published: true
 ---
 

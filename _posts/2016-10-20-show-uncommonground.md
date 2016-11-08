@@ -6,6 +6,7 @@ image:
 published: true
 ---
 
+  <section id="two" class="spotlights">
   	<section>
     <a href="generic.html" class="image">
       <img src="{{ site.url }}/assets/images/concert-pics/16-10-20-uncommon-ground.jpg" alt="DosLambos at Uncommon Ground" data-position="center center" />
@@ -17,8 +18,10 @@ published: true
   				</header>
   				<p>DōsLambōs was at Uncommon Ground on October 20, 2016! This first concert in a while. We performed a 30 minute set. Excited for many more to come!</p>
   				<ul class="actions">
-  					<li><a href="http://facebook.com/doslambosband" class="button">Be Our Friend</a></li>
+  					<li><a href="http://facebook.com/doslambosband" class="button">Learn more</a></li>
+            {{description}}
   				</ul>
   			</div>
   		</div>
   	</section>
+  </section>

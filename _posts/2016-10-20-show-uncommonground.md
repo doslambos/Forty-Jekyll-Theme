@@ -6,9 +6,7 @@ image: assets/images/concert-pics/16-10-20-uncommon-ground.jpg
 published: true
 ---
 
-# Our Drought Breaking Show!
-
-## And we're back
+## And we're back!
   We've been out of the game for some time, but it's time we made our entrance.
 
   DōsLambōs was at Uncommon Ground on October 20, 2016! This first concert in a while. We performed a 30 minute set. Excited for many more to come!

@@ -9,9 +9,9 @@ published: true
 <!-- Content -->
 <h2 id="content">Our Drought Breaking Show!</h2>
 
-<div class="row 50% uniform">
+<div class="row">
 
-  <div class="4u">
+  <div>
     <span>
       <img src="/assets/images/concert-pics/16-10-20-uncommon-ground.jpg" alt="DosLambos Performing Music at Uncommon Ground" />
     </span>

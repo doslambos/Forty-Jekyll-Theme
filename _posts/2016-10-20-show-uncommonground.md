@@ -9,7 +9,6 @@ published: true
 <!-- Content -->
 # Our Drought Breaking Show!
 
-
 ## And we're back
   We've been out of the game for some time, but it's time we made our entrance.
 

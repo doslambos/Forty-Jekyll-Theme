@@ -20,6 +20,7 @@ published: true
   				<ul class="actions">
   					<li><a href="http://facebook.com/doslambosband" class="button">Be our friend</a></li>
             Description is {{ post.description }}
+            change test 1
   				</ul>
   			</div>
   		</div>

@@ -29,20 +29,3 @@ published: true
   			</div>
   		</div>
   	</section>
-
-    <div class="previous">
-    {% if page.previous.url == null %}
-        <p>No Previous Page</p>
-      {% else %}
-        <p>Previous Post: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>
-    {% endif %}
-    </div>
-
-    <div class="next">
-    {% if page.next.url == null %}
-        <p>No Next Page</p>
-      {% else %}
-        <p>Next Post: <a href="{{ page.next.url }}">{{ page.next.title }}</a></p>
-    {% endif %}
-    </div>
-  </section>

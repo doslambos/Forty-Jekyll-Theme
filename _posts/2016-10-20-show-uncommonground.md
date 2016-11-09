@@ -19,16 +19,30 @@ published: true
   		<div class="content">
   			<div class="inner">
   				<header class="major">
-  					<h3>{{page.sub-header}}</h3>
+  					<h3>{{ page.sub-header }}</h3>
   				</header>
-  				<p>{{ page.content }}</p>
+  				<p>{{ page.description }}</p>
   				<ul class="actions">
-  					<li><a href="{{page.call-to-action-link}}" class="button">{{ page.call-to-action-button-text }}</a></li>
-            11222
+  					<li><a href="{{ page.call-to-action-link}}" class="button">{{page.call-to-action-button-text}}</a></li>
+            112
   				</ul>
   			</div>
   		</div>
   	</section>
 
+    <div class="previous">
+    {% if page.previous.url == null %}
+        <p>No Previous Page</p>
+      {% else %}
+        <p>Previous Post: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>
+    {% endif %}
+    </div>
 
+    <div class="next">
+    {% if page.next.url == null %}
+        <p>No Next Page</p>
+      {% else %}
+        <p>Next Post: <a href="{{ page.next.url }}">{{ page.next.title }}</a></p>
+    {% endif %}
+    </div>
   </section>

@@ -19,7 +19,7 @@ published: true
   		<div class="content">
   			<div class="inner">
   				<header class="major">
-  					<h3>{{ page.sub-header }}</h3>
+  					<h3>{{page.sub-header}}</h3>
   				</header>
   				<p>{{ page.content }}</p>
   				<ul class="actions">

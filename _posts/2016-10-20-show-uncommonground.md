@@ -19,14 +19,12 @@ published: true
   		<div class="content">
   			<div class="inner">
   				<header class="major">
-  					<h3>{{ page.sub-header }}11</h3>
+  					<h3>{{ page.sub-header }}</h3>
   				</header>
   				<p>{{ page.description }}</p>
   				<ul class="actions">
   					<li><a href="{{ page.call-to-action-link}}" class="button">{{page.call-to-action-button-text}}</a></li>
 
-
-            Oh YA H A 
   				</ul>
   			</div>
   		</div>

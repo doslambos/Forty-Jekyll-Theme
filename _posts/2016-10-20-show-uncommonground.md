@@ -13,9 +13,9 @@ published: true
 
   <section id="two" class="spotlights">
   	<section>
-    <a href="generic.html" class="image">
+    <div class="image">
       <img src="{{ site.url }}/assets/images/{{ page.image }}" alt="{{ page.image-alt }}" data-position="center right" />
-    </a>
+    </div>
   		<div class="content">
   			<div class="inner">
   				<header class="major">

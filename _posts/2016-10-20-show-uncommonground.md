@@ -7,7 +7,7 @@ image: concert-pics/16-10-20-uncommon-ground.jpg
 image-alt: DōsLambōs at Uncommon Ground
 sub-header: We're making moves
 call-to-action-button-text: Be our friend
-call-to-action-link: http://
+call-to-action-link: http://facebook.com/doslambosband
 published: true
 ---
 
@@ -21,9 +21,9 @@ published: true
   				<header class="major">
   					<h3>{{ page.sub-header }}</h3>
   				</header>
-  				<p></p>
+  				<p>{{ page.description }}</p>
   				<ul class="actions">
-  					<li><a href="http://facebook.com/doslambosband" class="button">Be our friend</a></li>
+  					<li><a href="{{ page.call-to-action-link}}" class="button">{{page.call-to-action-button-text}}</a></li>
             112
   				</ul>
   			</div>

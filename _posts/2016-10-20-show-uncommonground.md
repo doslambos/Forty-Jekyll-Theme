@@ -25,7 +25,7 @@ published: true
   				<ul class="actions">
   					<li><a href="http://facebook.com/doslambosband" class="button">Be our friend</a></li>
             Description is {{ page.description }}
-            change test 8
+            change test 11
   				</ul>
   			</div>
   		</div>
@@ -43,7 +43,7 @@ published: true
     {% if page.previous.url == null %}
         <p>No Next Page</p>
       {% else %}
-        <p>Next Post: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>
+        <p>Next Post: <a href="{{ page.next.url }}">{{ page.next.title }}</a></p>
     {% endif %}
     </div>
   </section>

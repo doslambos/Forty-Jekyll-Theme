@@ -30,8 +30,5 @@ published: true
   		</div>
   	</section>
 
-previous page image: {{ page.previous.image }}
-
-<img src="{{ page.previous.image }}" />
 
   </section>

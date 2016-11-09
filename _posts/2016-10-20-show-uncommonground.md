@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: show
 title: DōsLambōs at Uncommon Ground
 description: We performed a 30 minute set at the Uncommon Ground on Clark
 content: DōsLambōs was at Uncommon Ground on October 20, 2016! This first concert in a while. We performed a 30 minute set. Excited for many more to come!

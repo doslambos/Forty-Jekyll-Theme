@@ -40,7 +40,4 @@ published: true
       Next post: <a href="{{ page.next.url }}">{{ page.next.title }}</a>
     </div>
 
-    related{{ site.related_posts }}related
-
-
   </section>

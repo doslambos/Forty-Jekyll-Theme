@@ -23,7 +23,7 @@ published: true
   				</header>
   				<p>{{ page.content }}</p>
   				<ul class="actions">
-  					<li><a href="{{ page.call-to-action-link}}" class="button">{{ page.call-to-action-button-text }}</a></li>
+  					<li><a href="{{ page.call-to-action-link }}" class="button">{{ page.call-to-action-button-text }}</a></li>
             11222
   				</ul>
   			</div>

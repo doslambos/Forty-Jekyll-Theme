@@ -40,7 +40,7 @@ published: true
     </div>
 
     <div class="next">
-    {% if page.previous.url == null %}
+    {% if page.next.url == null %}
         <p>No Next Page</p>
       {% else %}
         <p>Next Post: <a href="{{ page.next.url }}">{{ page.next.title }}</a></p>

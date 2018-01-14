@@ -2865,6 +2865,16 @@ body.is-menu-visible #menu {
     opacity: 1;
     visibility: visible; }
 
+#wrapper #main.blog .inner.title {
+  padding-bottom: 0; }
+  #wrapper #main.blog .inner.title header.major {
+    margin-bottom: 0; }
+#wrapper #main.blog .image.main {
+  margin-top: 0; }
+#wrapper #main.blog .attribution {
+  font-size: 0.7em;
+  color: rgba(244, 244, 255, 0.2); }
+
 blockquote small {
   font-size: 0.7em; }
 

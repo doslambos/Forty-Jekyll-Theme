@@ -6,6 +6,26 @@
 
 /// Customizations on Typeography
 
+#wrapper {
+    #main {
+        &.blog {
+            .inner.title {
+                padding-bottom: 0;
+                header.major {
+                    margin-bottom: 0;
+                }
+            }
+            .image.main {
+                margin-top: 0;
+            }
+            .attribution {
+                font-size: 0.7em;
+                color: _palette(fg-light);
+            }
+        }
+    }
+}
+
 blockquote {
     small {
         font-size: 0.7em;

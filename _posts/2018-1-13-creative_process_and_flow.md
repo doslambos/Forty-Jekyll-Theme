@@ -1,13 +1,13 @@
 ---
 layout: blog
 title: Creative Process and Flow
-quote: Use the creative process - singing, writing, art, dance, whatever - to get to know yourself better. 
+description: I really want to do more of what I love.  
+quote: Use the creative process - singing, writing, art, dance, whatever - to get to know yourself better.
 quote-by: Catie Curtis
 image: /assets/images/blog/inking-a-comic.jpg
 image-alt: Inking a Comic is part of our creative process for comics
 published: true
 author: Diwant
-date: 2018-01-13
 tags: process flow kadavy
 ---
 I've been reading ***David Kadavy's*** **The Heart to Start** and recently found that I really want to do more of what I love.  So much of my past year has been involved in reading, learning, and graphing my creative process.

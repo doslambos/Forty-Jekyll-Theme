@@ -22,12 +22,11 @@ country: United States of America
 phone: (716) 555-5555
 
 # Plugins
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
   - jemoji
-  - jekyll-sitemap
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

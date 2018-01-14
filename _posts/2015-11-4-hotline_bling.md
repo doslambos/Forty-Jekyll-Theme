@@ -2,7 +2,7 @@
 layout: video
 title: Cover – (Drake) Hotline Bling
 description: You used to call me on my cell phone
-image: assets/images/hotline-bling-yt-thumbnail.jpg
+image: /assets/images/hotline-bling-yt-thumbnail.jpg
 published: true
 ---
 

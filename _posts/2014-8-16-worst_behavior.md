@@ -2,7 +2,7 @@
 layout: video
 title: Drake – Worst Behavior (Bhangra Trap Remix)
 description: A bhangra trap remix of Drake’s “Worst Behavior”
-image: assets/images/worst-behavior-yt-thumbnail.jpg
+image: /assets/images/worst-behavior-yt-thumbnail.jpg
 ---
 
 {% include youtube.html youtube_id="k9Ko4SLYRBE" %}

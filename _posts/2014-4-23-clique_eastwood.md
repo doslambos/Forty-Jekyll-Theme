@@ -2,7 +2,7 @@
 layout: video
 title: Clique Clint Eastwood – Clique (Kanye West) x Clint Eastwood (Gorillaz)
 description: Clique’s beat + Clint Eastwood’s lyrics
-image: assets/images/clique-eastwood-yt-thumbnail.jpg
+image: /assets/images/clique-eastwood-yt-thumbnail.jpg
 ---
 
 {% include youtube.html youtube_id="CRM_EkytC7g" %}

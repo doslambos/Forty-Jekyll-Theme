@@ -4,13 +4,13 @@
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ site.url }}{{ site.baseurl }}" class="logo"><strong>{{ site.title-bold }}</strong> <span>{{ site.title-normal }}</span></a>
-	<nav>
+	<nav style="display:none;">
 		<a href="#menu">Menu</a>
 	</nav>
 </header>
 
 <!-- Menu -->
-<nav id="menu">
+<nav id="menu" style="display:none;">
 	<ul class="links">
         {% for page in site.pages %}
 		    {% if page.layout == "home" %}

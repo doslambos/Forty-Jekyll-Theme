@@ -2865,13 +2865,13 @@ body.is-menu-visible #menu {
     opacity: 1;
     visibility: visible; }
 
-#wrapper #main.blog .inner.title {
+#wrapper #main.blog .inner.title, #wrapper #main.lyrics .inner.title {
   padding-bottom: 0; }
-  #wrapper #main.blog .inner.title header.major {
+  #wrapper #main.blog .inner.title header.major, #wrapper #main.lyrics .inner.title header.major {
     margin-bottom: 0; }
-#wrapper #main.blog .image.main {
+#wrapper #main.blog .image.main, #wrapper #main.lyrics .image.main {
   margin-top: 0; }
-#wrapper #main.blog .attribution {
+#wrapper #main.blog .attribution, #wrapper #main.lyrics .attribution {
   font-size: 0.7em;
   color: rgba(244, 244, 255, 0.2); }
 

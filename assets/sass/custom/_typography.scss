@@ -8,7 +8,7 @@
 
 #wrapper {
     #main {
-        &.blog {
+        &.blog, &.lyrics {
             .inner.title {
                 padding-bottom: 0;
                 header.major {

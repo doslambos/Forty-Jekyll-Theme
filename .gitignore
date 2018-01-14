@@ -39,6 +39,7 @@ Gemfile.lock
 # Generated SASS
 assets/.sass-cache
 assets/css/*.css.map
+.sass-cache/
 
 # grunt-html-validation
 validation-status.json
@@ -48,3 +49,6 @@ validation-report.json
 node_modules
 bower_components
 vendor
+
+# Generated jekyll
+.jekyll-metadata

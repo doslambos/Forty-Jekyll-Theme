@@ -22,7 +22,7 @@ country: United States of America
 phone: (716) 555-5555
 
 # Plugins
-plugins:
+plugins_dir:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed

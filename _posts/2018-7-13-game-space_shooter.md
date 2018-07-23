@@ -8,5 +8,7 @@ tags: game unity
 game_slug: space_shooter
 game_width: 600
 game_height: 900
+image: /assets/images/blog/basement_set-uncommon_ground.jpg
+image-alt: We set up in the basement to play and record a set
 ---
 Avoid or Destroy Oncoming Asteroids and Enemy Spaceships

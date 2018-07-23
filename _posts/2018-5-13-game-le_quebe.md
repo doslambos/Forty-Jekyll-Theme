@@ -1,5 +1,5 @@
 ---
-layout: unitygame
+layout: blog
 title: Le Quebe
 description: Follow along obstacle avoider built in Unity Engine
 published: true

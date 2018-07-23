@@ -4,7 +4,7 @@ title: Working Out and Acheiving
 description: As I build my body, I'm learning how to follow through
 image: /assets/images/blog/victor-freitas-593843-unsplash.jpg
 image-alt: Working Out, Lifting Weights
-published: false 
+published: false
 author: Diwant
 tags: process flow fitness
 ---
@@ -15,6 +15,9 @@ Along side, I realized something: I've been wanting to be built for some time.  
 Working out/fitness is a good example in my life that I can take forward because 
 * It's available to everyone: Everyone can chase their own fitness
 * Reasonable acheivements result from reasonable effort.  I cannot offload the blame to luck, timing, etc.
+* Succeeding here enables me to succeed elsewhere as fitness can lend to a fit mind.
+* Discipline failures here are evident because I know when I'm going to the gym and when I'm not.  And the results don't lie.
+* There are multiple parts of fitness: diet, weights, cardio, sleep.  I have to get a few things right and juggle them in my life to do this right.
 * 
 So I am working out now, observing the hardships I face
 

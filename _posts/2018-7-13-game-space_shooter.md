@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: unitygame
 title: Space Shooter – Lazers, Asteroids, Enemy Spaceships
 description: Top down space shooter built in Unity Engine
 published: true

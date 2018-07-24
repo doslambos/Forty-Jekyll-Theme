@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+	{% include header.html %} 
+	
+	<!-- Unity Game Scripts -->
+    <script src="{{ site.url }}{{ site.baseurl }}/assets/games/{{page.game_slug}}/Build/UnityLoader.js"></script>
+    <script>
+      var gameInstance = UnityLoader.instantiate("gameContainer", "/assets/games/{{page.game_slug}}/Build/{{page.game_slug}}.json");
+    </script>
+	
+
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>{{ page.title }}</h1>
+		</header>
+		<p>{{ content }}</p>
+		<div style="position:relative; left:50%; margin-left:-{{page.game_width|divided_by:2}}px;">
+			<div id="gameContainer" style="width:{{page.game_width}}px; height:{{page.game_height}}px;"></div>
+		</div>
+	</div>
+</section>
+
+</div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>

@@ -9,4 +9,4 @@ game_slug: le_quebe
 game_width: 960
 game_height: 600
 ---
-Race along, avoiding collisions with obstacles along 3 levels!
+Race along, avoiding collisions with obstacles along 4 levels!
